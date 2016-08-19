@@ -1,16 +1,29 @@
 @extends('layout.master')
 @section('content')
 
-<!-- <link rel="stylesheet" type="text/css" href="{{asset('bootstrap/css/bootstrap.min.css')}}">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
+<link rel="stylesheet" type="text/css" href="{{asset('css/index.css')}}">
 
-<br><br><br><br>
-					<input name="xx" type="text">
-<nav class="navbar" style="clear:both; height:200px; background-color:#F66">
-		สวัสดี
-    </nav>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     
-    
-<!-- <script type="text/javascript" src="{{asset('jquery/jquery-3.1.0.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('bootstrap/js/bootstrap.min.js')}}"></script> -->
+    <div class="col-lg-12">
+    	<div class="col-lg-5">
+        	<div class="col-lg-12">
+            	<div class="headsearch">ค้นหาห้อง</div>
+                <div class="boxsearch">
+                	วันที่ <br>
+                    เวลา <br>
+                    จำนวนคน <br>
+                </div>
+            </div>
+            <div class="col-lg-12">cccc</div>
+        </div>
+    	<div class="col-lg-7">
+        	www
+        </div>
+    </div>
+
 @endsection
