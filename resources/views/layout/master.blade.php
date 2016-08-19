@@ -6,13 +6,13 @@
 <link rel="stylesheet" type="text/css" href="{{asset('bootstrap/css/bootstrap.min.css')}}">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <style>
-	.topbar{background-color:#99FFCC !important; border-bottom:solid #CCFFFF 5px !important}
+	.topbar{background-color:#00BFFF !important; border-bottom:solid #BFEFFF 3px !important; height:60px !important}
 </style>
 </head>
 <body>
 
     <nav class="navbar navbar-default navbar-fixed-top topbar">
-		
+		สวัสดี
     </nav>
 
 
