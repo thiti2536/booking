@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face  { font-family:SMBAdvance; src:url(font/SMBAdvance.ttf)}
+
+/*LOGIN*/
+.fonttopbar { font-family:SMBAdvance; font-size:170%; font-weight:bold }
+.headlogin  { font-family:SMBAdvance; font-size:190%; font-weight:bold }
+.bodylogin  { font-family:SMBAdvance; font-size:160%; font-weight:bold }
+.boxinput   { font-family:SMBAdvance; font-size:150%; border:solid #09F 1px !important; font-weight:bold}

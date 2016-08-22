@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-@font-face {font-family:SMBAdvance; src:url(font/SMBAdvance.ttf)}
+@font-face  { font-family:SMBAdvance; src:url(font/SMBAdvance.ttf)}
 
 .headsearch { width:auto; height:auto; margin-bottom:2px; font-size:20px; border-radius:5px 5px 0px 0px;
 			  font-family:SMBAdvance; font-size:170%; font-weight:bold; background-color:#BFEFFF; text-indent:0.3cm;
