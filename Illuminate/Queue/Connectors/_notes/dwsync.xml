@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+<file name="ConnectorInterface.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+<file name="DatabaseConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+<file name="NullConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+<file name="RedisConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+<file name="SqsConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+<file name="SyncConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130488400000000" Dst="0" />
+</dwsync>

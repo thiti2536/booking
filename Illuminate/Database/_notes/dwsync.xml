@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="ConnectionInterface.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Connection.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="ConnectionResolver.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="ConnectionResolverInterface.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="DatabaseManager.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="DatabaseServiceProvider.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="DetectsLostConnections.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Grammar.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MigrationServiceProvider.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MySqlConnection.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="PostgresConnection.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="QueryException.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="README.md" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Seeder.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="SeedServiceProvider.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="SQLiteConnection.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="SqlServerConnection.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+</dwsync>

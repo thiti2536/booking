@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="HasMany.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="BelongsToMany.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="HasManyThrough.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="HasOne.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="HasOneOrMany.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MorphMany.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MorphOne.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MorphOneOrMany.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MorphPivot.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MorphTo.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MorphToMany.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Pivot.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Relation.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+</dwsync>

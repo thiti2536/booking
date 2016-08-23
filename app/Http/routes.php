@@ -23,5 +23,10 @@ Route::controllers(
 );
 
 Route::get('bookingindex','BookingController@index');
+Route::get('bookingprofile','BookingController@profile');
 
-//Route::post('bookingindex','BookingController@login');
+//Route::post('login','BookingController@login');
+//Route::post('logout','BookingController@logout');
+
+Route::post('login','Admin\LoginController@doLogin');
+Route::get('logout','Admin\LogoutController@doLogout');

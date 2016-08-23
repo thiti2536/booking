@@ -17,6 +17,7 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
+    
 </head>
 <body>
 	<nav class="navbar navbar-default">
@@ -37,16 +38,17 @@
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
-					@if (Auth::guest())
+					@if(!$check_login)
 						<li><a href="" data-toggle="modal" data-target="#myModal">Login</a></li>
 						<!-- <li><a href="{{ url('/auth/register') }}">Register</a></li> -->
-					@else
+					@endif
+					@if($check_login)
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-                            	{{ Auth::user()->name }} <span class="caret"></span>
+                            	<?php echo $student_name -> student_fname." ".$student_name -> student_lastname ?><span class="caret"></span>
                             </a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="{{ url('/auth/logout') }}">Logout</a></li>
+								<li><a href="{{ URL::asset('logout') }}">Logout</a></li>
 							</ul>
 						</li>
 					@endif
@@ -78,29 +80,30 @@
 						</div>
 					@endif
 
-					<form class="form-horizontal" role="form" method="POST" action="{{ url('/auth/login') }}">
+					<form class="form-horizontal" role="form" method="post" action="{{ URL::asset('login') }}">
 						<input type="hidden" name="_token" value="{{ csrf_token() }}">
 
 						<div class="form-group">
 							<label class="col-md-4 control-label">Username</label>
 							<div class="col-md-6">
-								<input type="text" class="form-control" name="username" value="{{ old('username') }}" required>
+								<input type="text" class="form-control" name="username" value="{{ old('username') }}">
 							</div>
 						</div>
-
+						
 						<div class="form-group">
 							<label class="col-md-4 control-label">Password</label>
 							<div class="col-md-6">
-								<input type="password" class="form-control" name="password" maxlength="16" minlength="8" required>
+								<input type="password" class="form-control" name="password" maxlength="16" minlength="8">
 							</div>
 						</div>
-							{{ old('username') }}
+                        
 						<div class="form-group">
 							<div class="col-md-6 col-md-offset-4">
-								<input type="submit" class="btn btn-primary" value="Login">
+								<input type="submit" name="submit" class="btn btn-primary" value="Login">
 							</div>
 						</div>
 					</form>
+
 				</div>
 			</div>
 		</div>
@@ -114,8 +117,5 @@
 	<!-- Scripts -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
-	<script>
-		$('#datetimepicker').data("DateTimePicker").FUNCTION()
-	</script>
 </body>
 </html>

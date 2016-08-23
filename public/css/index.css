@@ -10,4 +10,14 @@
 			  font-size:170%; font-weight:bold; background-color:#BFEFFF; text-indent:0.3cm;
 			}
 
+@media screen and (max-width: 1200px){
+.boxtop { display: none;}
+}
 
+@media screen and (max-width: 991px){
+.boxtop { display: none;}
+}
+
+@media screen and (max-width: 768px){
+.boxtop { display: block;}
+}

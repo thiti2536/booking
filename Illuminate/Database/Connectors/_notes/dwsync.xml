@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionFactory.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Connector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="ConnectorInterface.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MySqlConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="PostgresConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="SQLiteConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="SqlServerConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+</dwsync>

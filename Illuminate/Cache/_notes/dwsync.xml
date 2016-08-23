@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="ApcWrapper.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="ArrayStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="CacheManager.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="CacheServiceProvider.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="composer.json" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="DatabaseStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="FileStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MemcachedConnector.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="MemcachedStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="NullStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="RateLimiter.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="RedisStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="RedisTaggedCache.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="Repository.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="RetrievesMultipleKeys.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="TaggableStore.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="TaggedCache.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+<file name="TagSet.php" server="119.59.104.30:2002//domains/thailandtravel.social/public_html/" local="131130062900000000" remote="131130487800000000" Dst="0" />
+</dwsync>
